@@ -3,7 +3,7 @@
 
 
 
-<p>Welcome to my page! </br> I'm Bacem KHLIFI, Fullstack developer from <img src="https://user-images.githubusercontent.com/67926188/170830459-96c3bab5-3d8a-4085-a7ce-1f273d2e4ccc.png" width="13"/> <b>Sfax, Tunisie</b>
+<p>Welcome to my page! </br> I'm Bacem KHLIFI, Junior developer from <img src="https://user-images.githubusercontent.com/67926188/170830459-96c3bab5-3d8a-4085-a7ce-1f273d2e4ccc.png" width="13"/> <b>Sfax, Tunisie</b>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
