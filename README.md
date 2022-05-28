@@ -25,6 +25,7 @@
 </p>
 <h3>For more information</h3>
 <a href="https://bacemkhlifi.netlify.app/"> www.bacemkhlifi.com </a>
+</hr>
 © 2020, bacemkhlifi.com, All rights reserved
 
 
